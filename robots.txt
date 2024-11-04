@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://afuruova.github.io/ByH/sitemap_index.txt
+Sitemap: https://afuruova.github.io/NGw/sitemap_index.txt
+Sitemap: https://afuruova.github.io/vTJ/sitemap_index.txt
+Sitemap: https://afuruova.github.io/yNL/sitemap_index.txt
